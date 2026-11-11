@@ -8,3 +8,5 @@ Open Collaboration &amp; Architecture Discussion Hub
 - Sync iteration #3 verified
 
 - Sync iteration #4 verified
+
+- Sync iteration #5 verified
